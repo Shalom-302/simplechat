@@ -1,3 +1,4 @@
+# This is a simple chatbot with langchain and Gemini
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.schema import HumanMessage
