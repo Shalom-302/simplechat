@@ -5,3 +5,4 @@ google-generativeai
 watchdog
 google-genai
 langchain_community
+langchain-google-genai
